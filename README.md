@@ -24,3 +24,12 @@ Constraints:
 * Edit only `src/components/Child.jsx` and `src/styles.css`
 * Don't edit other files or install additional dependencies
 * Don't create additional files
+
+Steps:
+
+* Go to https://codesandbox.io/s/0xykq903yv
+* Click `Fork` in the top toolbar to copy project
+* Edit `src/components/Child.jsx` and `src/styles.css`
+* Ask me questions if you get stuck!
+* Save project
+* Send me a link (you can find it under `Share` in the top toolbar)
