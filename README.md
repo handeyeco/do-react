@@ -35,3 +35,5 @@ Steps:
 * Ask me questions if you get stuck!
 * Save project
 * Send me a link (you can find it under `Share` in the top toolbar)
+
+Go get 'em! You can totally do this and it'll be awesome!
