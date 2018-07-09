@@ -1,6 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
 
+// Do anything you want with this file!
+
 const Child = function({ color, blink, changeColor }) {
   return <div>Delete this to get started!</div>;
 };
