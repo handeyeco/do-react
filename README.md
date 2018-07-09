@@ -4,7 +4,7 @@ This is a small project to get you playing with React.
 
 Don't worry if you haven't used React before - the docs are great and the boilerplate work has been done for you.
 
-By editing `Child.jsx` and `styles.css`, create a React component that showcases your personality and/or interests.
+By editing `Child.jsx` and `styles.css`, create a React component that showcases your personality and/or interests. It can be anything!
 
 The Child component is given three props. You can use any combination of them or none at all! It's totally up to you.
 
